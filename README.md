@@ -1,4 +1,4 @@
-# youtube-aws-etl-pipeline
+# Pipeline de ingesta de datos de YouTube con AWS Lambda y S3 para análisis de datos en AWS Athena
 
 ## Descripción
 
