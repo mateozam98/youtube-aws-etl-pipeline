@@ -1,4 +1,4 @@
-# # youtube-aws-etl-pipeline
+# youtube-aws-etl-pipeline
 
 ## Descripción
 
